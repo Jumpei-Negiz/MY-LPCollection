@@ -1,5 +1,3 @@
-// data.json
-
 {
   "artists": [
     { "id": "art-bill_evans", "name": "Bill Evans", "isFavorite": false },
